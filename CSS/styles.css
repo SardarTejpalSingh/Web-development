@@ -1,0 +1,25 @@
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 30%;
+    border-color: gray;
+}
+
+body {
+    background-color: #f1faf1;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+/* ********************CLASS SELECTORS****************** */
+.general {
+    color: red;
+}
+
+/* *********************ID SELECTORS********************** */
+#specific {
+    color: rgb(92, 207, 57);
+}
